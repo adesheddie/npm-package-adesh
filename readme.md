@@ -1,5 +1,7 @@
 @adesh_rudra/test
-
+https://img.shields.io/github/issues/adesheddie/npm-package-test.svg
+https://img.shields.io/github/forks/adesheddie/npm-package-test.svg
+https://img.shields.io/github/stars/adesheddie/npm-package-test.svg
 Removes all spaces from a string.
 
 Install
